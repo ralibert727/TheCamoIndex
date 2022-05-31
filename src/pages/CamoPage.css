@@ -1,0 +1,18 @@
+.CamoImg {
+    height: 500px;
+    width: 500px;
+}
+
+ion-card{
+    --ion-background-color: rgb(228, 226, 226);
+    color: black;
+}
+
+ion-title{
+    font-size: 24px;
+}
+
+ion-label{
+    font-size: 18px;
+}
+

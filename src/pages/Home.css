@@ -1,0 +1,50 @@
+.descText{
+    font-size: 28px;
+}
+
+.checkbox1{
+    --ion-background-color: olivedrab;
+        border-radius: 4px;
+        width: 700px;
+        height: 85px;
+        margin-left: 80px;
+   }
+   
+   
+   .checkbox2{
+    --ion-background-color: khaki;
+    border-radius: 4px;
+    width: 700px;
+    height: 80px;
+    margin-left: 80px;
+      }
+
+   .checkbox3{
+    --ion-background-color: rgb(228, 226, 226);
+    border-radius: 4px;
+    width: 700px;
+    height: 75px;
+    margin-left: 80px;
+   }
+   
+      
+   .checkbox4{
+    --ion-background-color: limegreen;
+    border-radius: 4px;
+    width: 700px;
+    height: 70px;
+    margin-left: 80px;
+  }
+   
+      
+   .checkbox5{
+    --ion-background-color: darkkhaki;
+    border-radius: 4px;
+    width: 700px;
+    height: 90px;
+    margin-left: 80px;
+    }
+
+  
+
+    
